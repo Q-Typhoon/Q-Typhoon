@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Q-Typhoon
-- 👀 I’m interested in Football and Martial arts
-- 🌱 I’m currently learning Trueself
-- 💞️ I’m looking to collaborate whom are seeking Justice
+- 👀 I’m interested in bug hunting and no-code.
 - 📫 How to reach me mohamedshabeer.mk@gmail.com
 
 <!---
