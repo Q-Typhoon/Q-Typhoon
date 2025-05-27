@@ -2,7 +2,6 @@
 - I’m interested in bug hunting and no-code.
 - Currently learning python.
 - Interested in collaboration for projects.
-- How to reach me mohamedshabeer.mk@gmail.com
 
 <!---
 Q-Typhoon/Q-Typhoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
