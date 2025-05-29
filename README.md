@@ -1,6 +1,5 @@
 - Hi, I’m @Q-Typhoon
 - I’m interested in bug hunting and no-code.
-- Currently learning python.
 - Interested in collaboration for projects.
 
 <!---
